@@ -11,7 +11,7 @@ Trie Data Structure:Trie is a sorted tree-based data-structure that stores the s
 
 Trie is also known as the digital tree or prefix tree. The position of a node in the Trie determines the key with which that node is connected.
 
-We use set data structure for occurrence list.
+I used set data structure for occurrence list.
 
 When index is found in Tries, the program will return 
 a list of files that contains search words
